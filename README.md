@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asish Kumar Sahoo</h1>
 <h3 align="center">A passionate Data Science enthusiast and have deep inteteast in the field of machine learning, data analysis and visualization</h3>
-<img src="img_girl.jpg" alt="Coding" width="500" height="600" src="https://ai.plainenglish.io/23-data-science-techniques-you-should-know-61bc2c9d1b3a">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 📝 Skills [Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data | Hadoop | MapReduce | Apache Spark with Scala](Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data | Hadoop | MapReduce | Apache Spark with Scala)
 
 - 📫 How to reach me **asishsahoo2809@gmail.com**

@@ -1,3 +1,4 @@
+![logo](https://github.com/ASISH2809/ASISH2809/blob/main/Asish%20Sahoo.png)
 <h1 align="center">Hi 👋, I'm Asish Kumar Sahoo</h1>
 <h3 align="center">A Data Science enthusiast and interning as Data analyst.</h3>
 <img align="right" alt="Data Science" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
